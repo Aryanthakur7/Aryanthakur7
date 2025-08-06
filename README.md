@@ -19,9 +19,6 @@
   <a href="https://x.com/aryan072004"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" /></a>
   <a href="https://www.instagram.com/aryank.007/"><img src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram" /></a>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanthakur&theme=highcontrast" />
-</p>
 
 <p align="center">Thank you for visiting my profile! 🚀</p>
 
