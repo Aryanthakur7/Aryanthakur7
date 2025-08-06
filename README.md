@@ -23,7 +23,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanthakur&theme=highcontrast" />
 </p>
 
-
 ## 🔥 My Contribution Streak
 
 ![snake gif](https://github.com/aryanthakur/aryanthakur/blob/output/github-contribution-grid-snake.gif)
