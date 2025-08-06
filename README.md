@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Aryan Thakur</h1>
 <h3 align="center">Tech enthusiast and problem-solver, blending creativity with code — building real-world solutions through design thinking and development.</h3>
 
@@ -20,8 +19,19 @@
   <a href="https://x.com/aryan072004"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" /></a>
   <a href="https://www.instagram.com/aryank.007/"><img src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram" /></a>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanthakur&theme=highcontrast" />
+</p>
+
+
+## 🔥 My Contribution Streak
 
 ![snake gif](https://github.com/aryanthakur/aryanthakur/blob/output/github-contribution-grid-snake.gif)
+
+---
+
+<p align="center">Thank you for visiting my profile! 🚀</p>
+
 
 
 
