@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🔭 Helmet Detection for construction site workers.  
+🔭 I’m currently working on Helmet Detection for construction site workers.  
 🌱 I’m currently learning advanced frontend development and real-world problem-solving through hackathons.  
 👯 I’m looking to collaborate on open-source web projects and design thinking-based innovations.  
 🤔 I’m looking for help with deploying full-stack apps and making my GitHub profile more impactful.  
